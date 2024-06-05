@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Puneet Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="Right" src="git.gif" alt="">
@@ -7,7 +8,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- ⚡ Fun fact **I am funny 😂
 **
 
 <h3 align="left">Connect with me:</h3>
