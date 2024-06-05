@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@puneettiwa44653" target="blank"><img src="https://img.shields.io/twitter/follow/@puneettiwa44653?logo=twitter&style=for-the-badge" alt="@puneettiwa44653" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
-**
+- 🌱 I’m currently learning **React,C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
