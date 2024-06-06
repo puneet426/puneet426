@@ -15,7 +15,7 @@
 <a href="https://instagram.com/puneettiwari368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puneettiwari368" height="30" width="40" /></a>
 <a href="https://discord.com/channels/1153750210187628544/1153750210846130198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/1153750210187628544/1153750210846130198" height="30" width="40" /></a>
 </p>
-<a href="https://leetcode.com/u/puneet426/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/1153750210187628544/1153750210846130198" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/puneet426/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" alt="https://discord.com/channels/1153750210187628544/1153750210846130198" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
