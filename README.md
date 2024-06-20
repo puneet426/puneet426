@@ -2,11 +2,26 @@
 <h1 align="center">Hi 👋, I'm Puneet Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="Right" src="git.gif" alt="">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=puneet426&label=Profile%20views&color=0e75b6&style=flat" alt="puneet426" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=puneet426&label=Profile%20views&color=ff47b2&style=plastic" alt="puneet426" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@puneettiwa44653" target="blank"><img src="https://img.shields.io/twitter/follow/@puneettiwa44653?logo=twitter&style=for-the-badge" alt="@puneettiwa44653" /></a> </p>
+<p align="left"> <a href="https://twitter.com/puneet626" target="blank"><img src="https://img.shields.io/twitter/follow/puneet626?logo=twitter&style=for-the-badge" alt="puneet626" /></a> </p>
 
-- 🌱 I’m currently learning **React,C++**
+
+- 🔭 I’m currently working on **My Development Skills**
+
+- 🌱 I’m currently learning **MERN Stack.**
+
+- 👯 I’m looking to collaborate on **Frontend Projects**
+
+- 👨‍💻 All of my projects are available at [https://666c4bdce040515a889de420--brilliant-mermaid-2abd53.netlify.app/](https://666c4bdce040515a889de420--brilliant-mermaid-2abd53.netlify.app/)
+
+- 💬 Ask me about **HTML , CSS ,JS**
+
+- 📫 How to reach me **tiwaripuneet626@gmail.com**
+
+- ⚡ Fun fact **I am an all rounder!!!**
+<hr>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
