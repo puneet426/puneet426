@@ -1,5 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Puneet Tiwari</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Puneet+Tiwari!;" />
+</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="Right" src="git.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneet426&label=Profile%20views&color=ff47b2&style=plastic" alt="puneet426" /> </p>
