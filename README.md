@@ -50,6 +50,7 @@
 <p align="center">&nbsp; <img src="https://github-readme-stats-salesp07.vercel.app/api?username=puneet426&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" alt="readme stats" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneet426&theme=highcontrast" alt="puneet426" /></p>
+<hr>
  <div align="center">
        <h2>🐍 My Contributions 🐍</h2>
        <br>
