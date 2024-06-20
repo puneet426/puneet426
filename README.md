@@ -15,7 +15,9 @@
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 👨‍💻 All of my projects are available at **[https://666c4bdce040515a889de420--brilliant-mermaid-2abd53.netlify.app/](https://666c4bdce040515a889de420--brilliant-mermaid-2abd53.netlify.app/)**
+- 👨‍💻 All of my projects are available at My**<a href="https://666c4bdce040515a889de420--brilliant-mermaid-2abd53.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+ </a>**
 
 - 💬 Ask me about **HTML , CSS ,JS**
 
