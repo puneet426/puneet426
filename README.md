@@ -33,6 +33,9 @@
 <a href="https://instagram.com/puneettiwari368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puneettiwari368" height="30" width="40" /></a>
 <a href="https://discord.com/channels/1153750210187628544/1153750210846130198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/1153750210187628544/1153750210846130198" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/puneet426/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" alt="https://discord.com/channels/1153750210187628544/1153750210846130198" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/puneet.tiwari.146069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Puneet-Tiwari" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCucRpb3m8eLswl0SDFqHpHw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Puneet-Tiwari" height="30" width="40" /></a>
+
 <a href="https://666c4bdce040515a889de420--brilliant-mermaid-2abd53.netlify.app/" target="_blank">
     <img  align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> </a>    
 <hr>
