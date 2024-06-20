@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 👨‍💻 All of my projects are available at my<a href="https://666c4bdce040515a889de420--brilliant-mermaid-2abd53.netlify.app/" target="_blank">**Portfolio**
+- 👨‍💻 All of my projects are available at my <a href="https://666c4bdce040515a889de420--brilliant-mermaid-2abd53.netlify.app/" target="_blank">**Portfolio**
  </a>
 
 - 💬 Ask me about **HTML , CSS ,JS**
