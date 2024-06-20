@@ -26,7 +26,7 @@
 <hr>
 
 
-<h3 align="left"><img align="center"  src = "https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269534972-6c2a1b4f-2aeb-4ffd-8a31-47a41810dc55.gif" width = "30px"> Connect with me:</h3>
+<h3 align="left"><img align="center"  src = "https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269534972-6c2a1b4f-2aeb-4ffd-8a31-47a41810dc55.gif" width = "30px">  Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/Puneet626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@puneettiwa44653" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit" height="30" width="40" /></a>
