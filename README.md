@@ -43,4 +43,8 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneet426&theme=highcontrast" alt="hishitagupta" /></p>
 <hr>
 
-Support 🙏
+<h1 align='center'>⚡️Stay awesome!⚡️</h1>
+
+<p align="center">
+       <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
