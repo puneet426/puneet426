@@ -38,7 +38,7 @@
 <h3 align="left"><img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283932715-9307f2e9-03b3-4b2f-afc4-17f425b4a8ab.gif" width = "30px">GitHub Stats</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneet426&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="hishitagupta" /></p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=puneet426&show_icons=true&theme=highcontrast&locale=en" alt="hishitagupta" /></p>
+<p align="center">&nbsp;  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=puneet426&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneet426&theme=highcontrast" alt="hishitagupta" /></p>
 <hr>
