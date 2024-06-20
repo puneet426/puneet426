@@ -39,7 +39,7 @@
 <h2 align="center" align-item="centre"><img src="https://camo.githubusercontent.com/391fb8405ead836a240fed11c00bcf3c5ba8d009ffa2edba3107ad18a5df06d1/68747470733a2f2f6769746875622d70726f64756374696f6e2d757365722d61737365742d3632313064662e73332e616d617a6f6e6177732e636f6d2f37333939333737352f3238333932393631342d37643038336534622d386330342d346339342d623939362d3038356539376339613661302e676966" width="40px">⚒️ Languages-Frameworks-Tools ⚒️<img src="https://camo.githubusercontent.com/391fb8405ead836a240fed11c00bcf3c5ba8d009ffa2edba3107ad18a5df06d1/68747470733a2f2f6769746875622d70726f64756374696f6e2d757365722d61737365742d3632313064662e73332e616d617a6f6e6177732e636f6d2f37333939333737352f3238333932393631342d37643038336534622d386330342d346339342d623939362d3038356539376339613661302e676966" width="40px"></h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vscode,github,figma,tailwind,git,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vscode,github,figma,tailwind,git,cpp,vercel,netlify" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,express,mongodb,c,nextjs,mysql," /><br>
 </div>
 
