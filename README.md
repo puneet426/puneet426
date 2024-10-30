@@ -81,7 +81,7 @@
 </p>
 
 <p align="center">
-  <a href="buymeacoffee.com/tiwaripunea" target="_blank">
+  <a href="https://buymeacoffee.com/tiwaripunea" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"/>
   </a>
 </p>
