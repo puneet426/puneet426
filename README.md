@@ -76,6 +76,16 @@
        <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/puneet426/puneet426/output/github-contribution-grid-snake.svg" />
 <hr>
 
+<p align="center">
+  <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
+</p>
+
+<p align="center">
+  <a href="buymeacoffee.com/tiwaripunea" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"/>
+  </a>
+</p>
+
 <h1 align='center'>⚡️Stay awesome!⚡️</h1>
 
 <p align="center">
