@@ -64,6 +64,18 @@
 <p align="center"> <img src="https://leetcard.jacoblin.cool/p_t626?theme=dark&font=Nunito&ext=heatmap"/> </p>
      <hr>
      <!--START_SECTION:waka-->
+
+```txt
+From: 19 June 2026 - To: 26 June 2026
+
+Total Time: 20 mins
+
+JavaScript   11 mins               █████████████▓░░░░░░░░░░░   55.18 %
+JSON         9 mins                ███████████░░░░░░░░░░░░░░   44.22 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+```
+
 <!--END_SECTION:waka-->
 <p align="center">
   <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
