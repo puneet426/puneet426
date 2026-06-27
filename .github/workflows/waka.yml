@@ -1,0 +1,36 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: Update WakaTime Stats
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          REPOSITORY: puneet426/puneet426
+
+          API_BASE_URL: https://wakatime.com/api
+
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: ░▒▓█
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 7
+
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_PROJECTS: true
+          SHOW_EDITORS: true
+          SHOW_SHORT_INFO: true
+          SHOW_LINES_OF_CODE: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: false
