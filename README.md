@@ -55,27 +55,14 @@
 <p align="center">&nbsp; <img src="https://github-readme-stats-salesp07.vercel.app/api?username=puneet426&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" alt="readme stats" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneet426&theme=highcontrast" alt="puneet426" /></p>
-<hr>
-<h3> GSSOC'2024 Badges 🪶</h3>
 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  
-  </a>
-</div>
-
-<hr>
  <div align="center">
        <h2>🐍 My Contributions 🐍</h2>
        <br>
        <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/puneet426/puneet426/output/github-contribution-grid-snake.svg" />
 <hr>
-
+<p align="center"> <img src="https://leetcard.jacoblin.cool/p_t626?theme=dark&font=Nunito&ext=heatmap"/> </p>
+     <hr>
 <p align="center">
   <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
 </p>
@@ -91,4 +78,4 @@
 <p align="center">
        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-<p align="center"> <img src="https://leetcard.jacoblin.cool/p_t626?theme=dark&font=Nunito&ext=heatmap"/> </p>
+
