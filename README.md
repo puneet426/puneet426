@@ -63,6 +63,8 @@
 <hr>
 <p align="center"> <img src="https://leetcard.jacoblin.cool/p_t626?theme=dark&font=Nunito&ext=heatmap"/> </p>
      <hr>
+     <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <p align="center">
   <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
 </p>
