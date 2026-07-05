@@ -1,33 +1,18 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:0A2540,100:00D9FF&text=Puneet%20Tiwari&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Etawah%2C%20UP&descSize=18&descAlignY=58&animation=fadeIn" alt="Abesh Chakraborty"/>
 </div>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align ="Right" src="git.gif" alt="">
+
 <div align="center">
   <a href="https://github.com/puneet426">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;DSA+%7C+Problem+Solver;Building+Scalable+Web+Applications" alt="Full Stack Developer"/>
   </a>
 </div>
+
 <div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneet426&label=Profile%20views&color=00D9FF&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="puneet426" /> </p>
-
 <p align="left"> <a href="https://twitter.com/puneet626" target="blank"><img src="https://img.shields.io/twitter/follow/puneet626?logo=twitter&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="puneet626" /></a> </p>
 </div>
 
-- 🔭 I’m currently working on **My Development Skills**
-
-- 🌱 I’m currently learning **MERN Stack.**
-
-- 👯 I’m looking to collaborate on **Frontend Projects**
-
-- 👨‍💻 All of my projects are available at my <a href="https://666c4bdce040515a889de420--brilliant-mermaid-2abd53.netlify.app/" target="_blank">**Portfolio**
- </a>
-
-- 💬 Ask me about **HTML , CSS ,JS**
-
-- 📫 How to reach me **tiwaripuneet626@gmail.com**
-
-- ⚡ Fun fact **I am an all rounder!!!**
 <hr>
 
 
