@@ -16,7 +16,7 @@
 <a href="https://twitter.com/puneet626" target="blank"><img src="https://img.shields.io/twitter/follow/puneet626?logo=twitter&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="puneet626" /></a> 
 </div>
 
-   
+   <br>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,react,vscode,github,figma,tailwind,git,vercel,netlify" />
