@@ -4,6 +4,11 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="Right" src="git.gif" alt="">
 <div align="center">
+  <a href="https://github.com/puneet426">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;DSA+%7C+Problem+Solver;Building+Scalable+Web+Applications" alt="Full Stack Developer"/>
+  </a>
+</div>
+<div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneet426&label=Profile%20views&color=00D9FF&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="puneet426" /> </p>
 
 <p align="left"> <a href="https://twitter.com/puneet626" target="blank"><img src="https://img.shields.io/twitter/follow/puneet626?logo=twitter&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="puneet626" /></a> </p>
