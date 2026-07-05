@@ -31,7 +31,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneet426&theme=highcontrast" alt="puneet426" /></p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=puneet426&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true" width="75%" alt="Activity Graph" />
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=puneet426&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true"  alt="Activity Graph" />
 </p>
 
  <div align="center">
