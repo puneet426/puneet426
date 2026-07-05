@@ -85,7 +85,7 @@
           <text x="16" y="48">
             <tspan fill="#f472b6">"title"</tspan>
             <tspan fill="#64748b">   : </tspan>
-            <tspan fill="#4ade80">"Full-Stack Dev &amp; AI Nerd"</tspan>
+            <tspan fill="#4ade80">"Full-Stack Dev &amp; "</tspan>
             <tspan fill="#64748b">,</tspan>
           </text>
           <text x="16" y="72">
@@ -163,7 +163,7 @@
         <!-- FOLLS -->
         <text x="0" y="22" fill="#64748b" font-size="10">FOLLS</text>
         <rect x="52" y="13" width="32"  height="10" rx="2" fill="url(#g-cyan)"/>
-        <text x="316" y="22" fill="#67e8f9" font-size="10" font-weight="600">11</text>
+        <text x="316" y="22" fill="#67e8f9" font-size="10" font-weight="600">50</text>
 
         <!-- STARS -->
         <text x="0" y="44" fill="#64748b" font-size="10">STARS</text>
