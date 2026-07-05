@@ -1,6 +1,9 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:0A2540,100:00D9FF&text=Puneet%20Tiwari&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Etawah%2C%20UP&descSize=18&descAlignY=58&animation=fadeIn" alt="Abesh Chakraborty"/>
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/puneet426/puneet426/main/headers/terminal_banner.svg" width="100%" alt="Terminal banner" />
+</p>
 
 <div align="center">
   <a href="https://github.com/puneet426">
