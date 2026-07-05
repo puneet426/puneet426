@@ -9,8 +9,8 @@
 </div>
 
 <div align="center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=puneet426&label=Profile%20views&color=00D9FF&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="puneet426" /> </p>
-<p align="left"> <a href="https://twitter.com/puneet626" target="blank"><img src="https://img.shields.io/twitter/follow/puneet626?logo=twitter&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="puneet626" /></a> </p>
+ <img src="https://komarev.com/ghpvc/?username=puneet426&label=Profile%20views&color=00D9FF&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="puneet426" /> 
+<a href="https://twitter.com/puneet626" target="blank"><img src="https://img.shields.io/twitter/follow/puneet626?logo=twitter&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="puneet626" /></a> 
 </div>
 
 <hr>
