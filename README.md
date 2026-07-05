@@ -13,23 +13,7 @@
 <a href="https://twitter.com/puneet626" target="blank"><img src="https://img.shields.io/twitter/follow/puneet626?logo=twitter&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="puneet626" /></a> 
 </div>
 <br/>
-
-
-
-<h3 align="left"><img align="center"  src = "https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269534972-6c2a1b4f-2aeb-4ffd-8a31-47a41810dc55.gif" width = "30px">  Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/Puneet626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@puneettiwa44653" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit" height="30" width="40" /></a>
-<a href="https://instagram.com/puneettiwari368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puneettiwari368" height="30" width="40" /></a>
-     <a href="https://www.facebook.com/puneet.tiwari.146069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Puneet-Tiwari" height="30" width="40" /></a>
-<a href="https://discord.com/channels/1153750210187628544/1153750210846130198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/1153750210187628544/1153750210846130198" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/puneet426/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" alt="https://discord.com/channels/1153750210187628544/1153750210846130198" height="30" width="40" /></a>
-   <a href="https://www.youtube.com/channel/UCucRpb3m8eLswl0SDFqHpHw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Puneet-Tiwari" height="30" width="40" /></a>
-<a href="tiwaripuneet626@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-<a href="https://666c4bdce040515a889de420--brilliant-mermaid-2abd53.netlify.app/" target="_blank">
-    <img  align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> </a>    
+   
 <hr>
 <h2 align="center" align-item="centre"><img src="https://camo.githubusercontent.com/391fb8405ead836a240fed11c00bcf3c5ba8d009ffa2edba3107ad18a5df06d1/68747470733a2f2f6769746875622d70726f64756374696f6e2d757365722d61737365742d3632313064662e73332e616d617a6f6e6177732e636f6d2f37333939333737352f3238333932393631342d37643038336534622d386330342d346339342d623939362d3038356539376339613661302e676966" width="40px">⚒️ Languages-Frameworks-Tools ⚒️<img src="https://camo.githubusercontent.com/391fb8405ead836a240fed11c00bcf3c5ba8d009ffa2edba3107ad18a5df06d1/68747470733a2f2f6769746875622d70726f64756374696f6e2d757365722d61737365742d3632313064662e73332e616d617a6f6e6177732e636f6d2f37333939333737352f3238333932393631342d37643038336534622d386330342d346339342d623939362d3038356539376339613661302e676966" width="40px"></h2>
 <br/>
@@ -85,16 +69,16 @@ JSON         0 secs                ░░░░░░░░░░░░░░░
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abesh-chakraborty/" target="_blank">
+<a href="https://www.linkedin.com/in/puneet-tiwari-0075952a6/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
 </a>
-<a href="https://x.com/CognitiveAbs" target="_blank">
+<a href="https://x.com/Puneet626" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" alt="X (Twitter)"/>
 </a>
-<a href="https://leetcode.com/u/abeshchakraborty10/" target="_blank">
+<a href="https://leetcode.com/u/p_t626/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="LeetCode"/>
 </a>
-<a href="mailto:abeshchakraborty10@gmail.com">
+<a href="mailto:tiwaripuneet626@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail"/>
 </a>
 
