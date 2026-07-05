@@ -41,6 +41,18 @@
 <hr>
 <p align="center"> <img src="https://leetcard.jacoblin.cool/p_t626?theme=dark&font=Nunito&ext=heatmap"/> </p>
      <hr>
+   <br>
+
+<!-- Pac-Man eating the contribution graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeekyAbs/GeekyAbs/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeekyAbs/GeekyAbs/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/GeekyAbs/GeekyAbs/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+<br>
      <!--START_SECTION:waka-->
 
 ```txt
