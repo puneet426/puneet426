@@ -12,8 +12,8 @@
  <img src="https://komarev.com/ghpvc/?username=puneet426&label=Profile%20views&color=00D9FF&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="puneet426" /> 
 <a href="https://twitter.com/puneet626" target="blank"><img src="https://img.shields.io/twitter/follow/puneet626?logo=twitter&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="puneet626" /></a> 
 </div>
+<br/>
 
-<hr>
 
 
 <h3 align="left"><img align="center"  src = "https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269534972-6c2a1b4f-2aeb-4ffd-8a31-47a41810dc55.gif" width = "30px">  Connect with me:</h3>
@@ -78,9 +78,32 @@ JSON         0 secs                ░░░░░░░░░░░░░░░
   </a>
 </p>
 
-<h1 align='center'>⚡️Stay awesome!⚡️</h1>
+<!-- connect -->
+<div align="center">
+  <h2>🌐 &nbsp;Connect With Me</h2>
+</div>
 
-<p align="center">
-       <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abesh-chakraborty/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/CognitiveAbs" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" alt="X (Twitter)"/>
+</a>
+<a href="https://leetcode.com/u/abeshchakraborty10/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="LeetCode"/>
+</a>
+<a href="mailto:abeshchakraborty10@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail"/>
+</a>
+
+</div>
+
+<br>
+
+<!-- footer -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,50:0A2540,100:0D1117&text=Thanks%20for%20stopping%20by!&fontSize=20&fontColor=FFFFFF&fontAlignY=72&animation=twinkling" alt="footer"/>
+</div>
 
