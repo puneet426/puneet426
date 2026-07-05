@@ -1,7 +1,6 @@
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Puneet+Tiwari!;" />
-</h1>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:0A2540,100:00D9FF&text=Puneet%20Tiwari&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Etawah%2C%20UP&descSize=18&descAlignY=58&animation=fadeIn" alt="Abesh Chakraborty"/>
+</div>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="Right" src="git.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneet426&label=Profile%20views&color=ff47b2&style=plastic" alt="puneet426" /> </p>
