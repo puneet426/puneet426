@@ -1,4 +1,4 @@
-name: Generate Pac-Man Contribution Graph
+name: Generate Pac-Man Animation
 
 on:
   schedule:
@@ -13,16 +13,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Pac-Man
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: puneet426
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+          generate_dark: true
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Deploy
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
