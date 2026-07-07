@@ -48,9 +48,18 @@
 <!-- Pac-Man eating the contribution graph -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/puneet426/puneet426/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/puneet426/puneet426/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/puneet426/puneet426/output/pacman-contribution-graph.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/puneet426/puneet426/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/puneet426/puneet426/output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="Pac-Man contribution graph"
+      src="https://raw.githubusercontent.com/puneet426/puneet426/output/pacman-contribution-graph.svg"
+    />
   </picture>
 </div>
 
