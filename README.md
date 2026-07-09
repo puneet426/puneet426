@@ -12,6 +12,7 @@
 </div>
 
 <div align="center">
+   <a href="https://puneet.occazi.in/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
  <img src="https://komarev.com/ghpvc/?username=puneet426&label=Profile%20views&color=00D9FF&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="puneet426" /> 
 <a href="https://twitter.com/puneet626" target="blank"><img src="https://img.shields.io/twitter/follow/puneet626?logo=twitter&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="puneet626" /></a> 
 </div>
