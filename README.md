@@ -40,7 +40,7 @@
  <div align="center">
        <h2>🐍 My Contributions 🐍</h2>
        <br>
-       <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/puneet426/puneet426/output/github-contribution-grid-snake-dark.svg" />
+       <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/puneet426/puneet426/output/github-contribution-grid-snake.svg" />
 <hr>
 <p align="center"> <img src="https://leetcard.jacoblin.cool/p_t626?theme=dark&font=Nunito&ext=heatmap"/> </p>
      <hr>
