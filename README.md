@@ -48,7 +48,7 @@
 
 <!-- Pac-Man eating the contribution graph -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/puneet426/puneet426/output/pacman-contribution-graph.svg" width="75%" alt="Pac-Man contribution graph" />
+  <img src="https://raw.githubusercontent.com/puneet426/puneet426/output/pacman.svg" width="75%" alt="Pac-Man contribution graph" />
 </p>
 
 <br>
