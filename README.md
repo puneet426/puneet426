@@ -37,9 +37,14 @@
   <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=puneet426&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true"  alt="Activity Graph" />
 </p>
 <br>
- <div align="center">
-       <h2>🐍 My Contributions 🐍</h2>
-       <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/puneet426/puneet426/output/github-contribution-grid-snake-dark.svg" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/puneet426/puneet426/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/puneet426/puneet426/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/puneet426/puneet426/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
 <br>
 
    
