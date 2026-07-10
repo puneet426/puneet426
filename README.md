@@ -33,8 +33,9 @@
 <p align="center">&nbsp; <img src="https://github-readme-stats-salesp07.vercel.app/api?username=puneet426&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" alt="readme stats" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneet426&theme=highcontrast" alt="puneet426" /></p>
+<p align="center"> <img  src="https://leetcard.jacoblin.cool/p_t626?theme=dark&font=Nunito&ext=heatmap"/> </p>
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=puneet426&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true"  alt="Activity Graph" />
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=puneet426&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true"  alt="Activity Graph" />
 </p>
 <br>
 <div align="center">
@@ -50,10 +51,10 @@
    
    <br>
    <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/puneet426/puneet426/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" />
+  <img width="92%" src="https://raw.githubusercontent.com/puneet426/puneet426/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" />
 </div>
    <br>
-<p align="center"> <img width="100%" src="https://leetcard.jacoblin.cool/p_t626?theme=dark&font=Nunito&ext=heatmap"/> </p>
+
 
 <br>
 
