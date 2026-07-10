@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="850" viewBox="0 0 1280 850">
+  <style>
+    * { font-family: "Ubuntu", "Helvetica", "Arial", sans-serif; }
+    .fill-fg { fill: #eeeeff; }
+    .fill-bg { fill: #00000f; }
+    .fill-strong { fill: rgb(255,200,55); }
+    .fill-weak { fill: #aaaaaa; }
+    .stroke-bg { stroke: #00000f; }
+  </style>
+  <rect x="0" y="0" width="1280" height="850" class="fill-bg"></rect>
+  
+  <text style="font-size: 40px; font-weight: bold;" x="640" y="80" text-anchor="middle" class="fill-strong">GitHub Stats Overview</text>
+  
+  <g transform="translate(150, 200)">
+    <text x="0" y="40" class="fill-fg" font-size="32px" font-weight="bold">Total Contributions: 689</text>
+    <text x="0" y="90" class="fill-fg" font-size="32px">Commits (2026): 222</text>
+    <text x="0" y="140" class="fill-fg" font-size="32px">Pull Requests: 17</text>
+    <text x="0" y="190" class="fill-fg" font-size="32px">Issues: 36</text>
+    <text x="0" y="240" class="fill-fg" font-size="32px">Stars Earned: 105</text>
+  </g>
+
+  <g transform="translate(700, 200)">
+    <text x="0" y="40" class="fill-strong" font-size="32px" font-weight="bold">Languages Used</text>
+    <rect x="0" y="70" width="20" height="20" fill="#f1e05a" class="stroke-bg"></rect>
+    <text x="30" y="87" class="fill-fg" font-size="24px">JavaScript: 40.83%</text>
+    
+    <rect x="0" y="110" width="20" height="20" fill="#563d7c" class="stroke-bg"></rect>
+    <text x="30" y="127" class="fill-fg" font-size="24px">CSS: 24.38%</text>
+    
+    <rect x="0" y="150" width="20" height="20" fill="#e34c26" class="stroke-bg"></rect>
+    <text x="30" y="167" class="fill-fg" font-size="24px">HTML: 22.13%</text>
+    
+    <rect x="0" y="190" width="20" height="20" fill="#3178c6" class="stroke-bg"></rect>
+    <text x="30" y="207" class="fill-fg" font-size="24px">TypeScript: 11.21%</text>
+    
+    <rect x="0" y="230" width="20" height="20" fill="#c6538c" class="stroke-bg"></rect>
+    <text x="30" y="247" class="fill-fg" font-size="24px">SCSS: 1.44%</text>
+  </g>
+
+  <text style="font-size: 16px;" x="1260" y="820" text-anchor="end" class="fill-weak">Data as of 2026-07-10</text>
+</svg>
