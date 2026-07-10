@@ -23,8 +23,8 @@
     <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript,react,vscode,github,figma,tailwind,git,vercel,netlify" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,express,mongodb,c,nextjs,mysql," /><br>
 </div>
+<br>
 
-<hr>
 <h3 align="left"><img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283932715-9307f2e9-03b3-4b2f-afc4-17f425b4a8ab.gif" width = "30px">GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=puneet426&layout=compact&theme=highcontrast&rank_icon=github&border_radius=10" alt="Top languages" />
@@ -36,20 +36,21 @@
 <p align="center">
   <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=puneet426&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true"  alt="Activity Graph" />
 </p>
-
+<br>
  <div align="center">
        <h2>🐍 My Contributions 🐍</h2>
-       <br>
        <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/puneet426/puneet426/output/github-contribution-grid-snake-dark.svg" />
-<hr>
-<p align="center"> <img src="https://leetcard.jacoblin.cool/p_t626?theme=dark&font=Nunito&ext=heatmap"/> </p>
-     <hr>
+<br>
+
+   
    <br>
    <div align="center">
   <img width="92%" src="https://raw.githubusercontent.com/puneet426/puneet426/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" />
 </div>
+   <br>
+<p align="center"> <img src="https://leetcard.jacoblin.cool/p_t626?theme=dark&font=Nunito&ext=heatmap"/> </p>
 
-
+<br>
 
     
 
