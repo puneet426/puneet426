@@ -60,18 +60,19 @@
 
     
 <!--START_SECTION:waka-->
+
 ```txt
-From: 02 July 2026 - To: 09 July 2026
+From: 03 July 2026 - To: 10 July 2026
 
-Total Time: 19 hrs 10 mins
+Total Time: 22 hrs 34 mins
 
-TypeScript   16 hrs 3 mins         ████████████████████▓░░░░   82.51 %
-HTML         1 hr 18 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-Markdown     53 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-JavaScript   39 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-Other        17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-CSS          14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TypeScript   20 hrs 18 mins        ██████████████████████░░░   87.89 %
+HTML         56 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Markdown     40 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+Other        32 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+JavaScript   21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+CSS          13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Git Config   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
