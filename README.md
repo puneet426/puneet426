@@ -62,17 +62,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2026 - To: 14 July 2026
+From: 08 July 2026 - To: 15 July 2026
 
-Total Time: 14 hrs 39 mins
+Total Time: 10 hrs 48 mins
 
-TypeScript   11 hrs 2 mins         ██████████████████░░░░░░░   71.90 %
-Markdown     1 hr 54 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
-Bash         1 hr 23 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
-Other        41 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-Prisma       5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-JavaScript   4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-TSConfig     4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+TypeScript   7 hrs 12 mins         ███████████████▓░░░░░░░░░   62.60 %
+Markdown     1 hr 54 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
+Bash         1 hr 23 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
+Other        41 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Prisma       5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+JavaScript   4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+TSConfig     4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
