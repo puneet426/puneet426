@@ -62,17 +62,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2026 - To: 16 July 2026
+From: 11 July 2026 - To: 18 July 2026
 
-Total Time: 7 hrs 47 mins
+Total Time: 4 hrs 3 mins
 
-TypeScript   4 hrs 18 mins         █████████████░░░░░░░░░░░░   52.47 %
-Markdown     1 hr 49 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.24 %
-Bash         1 hr 23 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.96 %
-Other        26 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-Prisma       5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-TSConfig     4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-JavaScript   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Bash         1 hr 23 mins          ████████▒░░░░░░░░░░░░░░░░   33.90 %
+Markdown     57 mins               █████▓░░░░░░░░░░░░░░░░░░░   23.20 %
+TypeScript   28 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
+JavaScript   24 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+TSConfig     19 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+JSON         14 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Git Config   10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
 ```
 
 <!--END_SECTION:waka-->
