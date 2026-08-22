@@ -62,17 +62,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2026 - To: 20 August 2026
+From: 14 August 2026 - To: 21 August 2026
 
-Total Time: 2 hrs 32 mins
+Total Time: 1 hr 12 mins
 
-TypeScript    1 hr 15 mins          ██████████▒░░░░░░░░░░░░░░   41.61 %
-JavaScript    30 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
-Other         28 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
-Bash          22 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
-Markdown      11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-Git Config    6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-CSS           3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+JavaScript   36 mins               ███████████░░░░░░░░░░░░░░   44.03 %
+TypeScript   31 mins               █████████▓░░░░░░░░░░░░░░░   38.18 %
+Other        10 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
+CSS          2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Bash         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Markdown     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Gosu         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
